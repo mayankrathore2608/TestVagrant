@@ -4,7 +4,15 @@
 
 <suite name="main">
 
-
+<test name="foreignplayercount">
+    <classes>
+        <class name="testcases.TestingForeignerPlayersCount"></class>
+        <class name="testcases.TestingAtleastOneWicketKeeper"></class>
+    </classes>
+    
+</test>
+    
+    
 
 
 </suite>

@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f723d086-2087-4578-b310-9f284c01cd88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resouces/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resouces/TestData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testcases/TestingForeignerPlayersCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testcases/TestingForeignerPlayersCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/testng.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,6 +43,97 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/mayank.rathore/IdeaProjects/ProjectTestVagrant/src/testng.xml">
+    <configuration name="C:/Users/mayank.rathore/IdeaProjects/ProjectTestVagrant/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTestVagrant" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingAtleastOneWicketKeeper.validatesAtleastOneWicketkeeper" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTestVagrant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TestingAtleastOneWicketKeeper" />
+      <option name="METHOD_NAME" value="validatesAtleastOneWicketkeeper" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingForeignerPlayersCount (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTestVagrant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TestingForeignerPlayersCount" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingForeignerPlayersCount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTestVagrant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TestingForeignerPlayersCount" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingForeignerPlayersCount.validatesForeignPlayersCount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTestVagrant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TestingForeignerPlayersCount" />
+      <option name="METHOD_NAME" value="validatesForeignPlayersCount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/mayank.rathore/IdeaProjects/ProjectTestVagrant/src/testng.xml" />
+        <item itemvalue="TestNG.TestingAtleastOneWicketKeeper.validatesAtleastOneWicketkeeper" />
+        <item itemvalue="TestNG.TestingForeignerPlayersCount (1)" />
+        <item itemvalue="TestNG.TestingForeignerPlayersCount.validatesForeignPlayersCount" />
+        <item itemvalue="TestNG.TestingForeignerPlayersCount" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
